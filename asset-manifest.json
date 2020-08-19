@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/lilyyoung/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lilyyoung/static/js/main.c32a57b8.chunk.js",
-    "main.js.map": "/lilyyoung/static/js/main.c32a57b8.chunk.js.map",
-    "runtime-main.js": "/lilyyoung/static/js/runtime-main.7b21d351.js",
-    "runtime-main.js.map": "/lilyyoung/static/js/runtime-main.7b21d351.js.map",
-    "static/css/2.b5df288c.chunk.css": "/lilyyoung/static/css/2.b5df288c.chunk.css",
-    "static/js/2.75ba18b6.chunk.js": "/lilyyoung/static/js/2.75ba18b6.chunk.js",
-    "static/js/2.75ba18b6.chunk.js.map": "/lilyyoung/static/js/2.75ba18b6.chunk.js.map",
-    "index.html": "/lilyyoung/index.html",
-    "precache-manifest.6f4ccf3e0895f79b09b04585b40fdb4a.js": "/lilyyoung/precache-manifest.6f4ccf3e0895f79b09b04585b40fdb4a.js",
-    "service-worker.js": "/lilyyoung/service-worker.js",
-    "static/css/2.b5df288c.chunk.css.map": "/lilyyoung/static/css/2.b5df288c.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/lilyyoung/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.75ba18b6.chunk.js.LICENSE.txt": "/lilyyoung/static/js/2.75ba18b6.chunk.js.LICENSE.txt",
-    "static/media/CV.pdf": "/lilyyoung/static/media/CV.e0aa6af3.pdf",
-    "static/media/material-icons.css": "/lilyyoung/static/media/MaterialIcons-Regular.e79bfd88.eot",
-    "static/media/personal.jpeg": "/lilyyoung/static/media/personal.cc55f80b.jpeg"
+    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.8606c8fa.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.8606c8fa.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.08eec64a.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.08eec64a.js.map",
+    "static/css/2.02d7b705.chunk.css": "/react-gh-pages/static/css/2.02d7b705.chunk.css",
+    "static/js/2.75ba18b6.chunk.js": "/react-gh-pages/static/js/2.75ba18b6.chunk.js",
+    "static/js/2.75ba18b6.chunk.js.map": "/react-gh-pages/static/js/2.75ba18b6.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.b146c85dcd548ff55d45b9cdc806c4db.js": "/react-gh-pages/precache-manifest.b146c85dcd548ff55d45b9cdc806c4db.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/2.02d7b705.chunk.css.map": "/react-gh-pages/static/css/2.02d7b705.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.75ba18b6.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.75ba18b6.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/react-gh-pages/static/media/CV.e0aa6af3.pdf",
+    "static/media/material-icons.css": "/react-gh-pages/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/media/personal.jpeg": "/react-gh-pages/static/media/personal.cc55f80b.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b21d351.js",
-    "static/css/2.b5df288c.chunk.css",
+    "static/js/runtime-main.08eec64a.js",
+    "static/css/2.02d7b705.chunk.css",
     "static/js/2.75ba18b6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c32a57b8.chunk.js"
+    "static/js/main.8606c8fa.chunk.js"
   ]
 }

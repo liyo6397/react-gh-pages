@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.13d0e641.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.13d0e641.chunk.js.map",
+    "main.js": "/react-gh-pages/static/js/main.92aad7b6.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.92aad7b6.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.08eec64a.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.08eec64a.js.map",
     "static/css/2.02d7b705.chunk.css": "/react-gh-pages/static/css/2.02d7b705.chunk.css",
-    "static/js/2.c8665ec5.chunk.js": "/react-gh-pages/static/js/2.c8665ec5.chunk.js",
-    "static/js/2.c8665ec5.chunk.js.map": "/react-gh-pages/static/js/2.c8665ec5.chunk.js.map",
+    "static/js/2.c4313da3.chunk.js": "/react-gh-pages/static/js/2.c4313da3.chunk.js",
+    "static/js/2.c4313da3.chunk.js.map": "/react-gh-pages/static/js/2.c4313da3.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.1e186b60edde9138b724ee488366dcfe.js": "/react-gh-pages/precache-manifest.1e186b60edde9138b724ee488366dcfe.js",
+    "precache-manifest.be3781824c56e8fa35a5e72f31c6eb89.js": "/react-gh-pages/precache-manifest.be3781824c56e8fa35a5e72f31c6eb89.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
     "static/css/2.02d7b705.chunk.css.map": "/react-gh-pages/static/css/2.02d7b705.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c8665ec5.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.c8665ec5.chunk.js.LICENSE.txt",
+    "static/js/2.c4313da3.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.c4313da3.chunk.js.LICENSE.txt",
     "static/media/CV.pdf": "/react-gh-pages/static/media/CV.09461116.pdf",
     "static/media/material-icons.css": "/react-gh-pages/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/media/Resume.pdf": "/react-gh-pages/static/media/Resume.d71ee153.pdf",
     "static/media/personal.jpeg": "/react-gh-pages/static/media/personal.cc55f80b.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.08eec64a.js",
     "static/css/2.02d7b705.chunk.css",
-    "static/js/2.c8665ec5.chunk.js",
+    "static/js/2.c4313da3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.13d0e641.chunk.js"
+    "static/js/main.92aad7b6.chunk.js"
   ]
 }

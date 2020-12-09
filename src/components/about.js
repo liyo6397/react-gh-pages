@@ -35,11 +35,9 @@ function AboutCard() {
 
                 <Card.Text>
                     My work sit in the intersection of Computer Science and Applied Mathematics.
-                    A large portion of my previous and ongoing research deals with
-                    the Deep Learning Framework, modeling, and simulation of brownian motion,
-                    especially those that arise within the dynamical system
-                    i.e. the stock market, advection-diffusion problems.
-                    I also familiar with high performance computing like MPI and OpenMP.
+                    A large portion of my previous and ongoing research deals with the Deep Learning framework,
+                    data optimization specifically in: Python and C++.
+                    I am also interested in multithreading, multiprocessing and high performance computing.
                 </Card.Text>
             </Card.Body>
         </Card>

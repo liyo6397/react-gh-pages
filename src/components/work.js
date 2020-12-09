@@ -16,24 +16,31 @@ function Work(){
             <hr/>
 
             <article>
-                <h2 className="h5">Web Developer</h2>
-                <h3 className="h7">Main StreetExchange, June.2016-June.2018</h3>
-                <p> Develop agile website for enterprise commerce applications to processing warehoused data.
-                    I was responsible for maintaining the query performance and user interface design.</p>
+                <h2 className="h5 font-weight-bold">Full Stack Developer</h2>
+                <h3 className="h7 font-weight-light">Main StreetExchange, June.2016-June.2018</h3>
+
+                <li> Maintained 5 onsite databases and increased its admin effectiveness by 20%. </li>
+                <li> Integrated database functionality into websites for automating document and capitalization</li>
+                <li className=" font-weight-bold"> tools: SQL, php, javascript</li>
+
             </article>
             <br/>
             <article>
-                <h2 className="h5">Machine Learning Engineer</h2>
-                <h3 className="h7">TopicTechnology, Jan. 2016-May. 2016</h3>
-                <p> Building topic model to analyzes unstructured text about companies and products
-                    in order to better understand the market and competitive landscape.</p>
+                <h2 className="h5 font-weight-bold">Machine Learning Engineer</h2>
+                <h3 className="h7 font-weight-light">TopicTechnology, Jan. 2016-May. 2016</h3>
+                <li>  Built topic model to identify the market and competitive landscape with up to 95% fidelity. </li>
+                <li>  Filtered and cleaned unstructured company and market information, improved the classification
+                    accuracy 30%.  </li>
+                <li className="font-weight-bold"> tools: python, nltk</li>
             </article>
             <br/>
             <article>
-                <h2 className="h5">Machine Learning Engineer Intern</h2>
-                <h3 className="h7">Millennium Engineering & Integration, Summer 2014</h3>
-                <p> Exploring the temptation of purchasing of customers by building the model combined
-                    with support vector machine(svm) and autoregressive model to track user's preference.</p>
+                <h2 className="h5 font-weight-bold">Machine Learning Engineer Intern</h2>
+                <h3 className="h7 font-weight-light">Millennium Engineering & Integration, Summer 2014</h3>
+                <li> Apply support vector machine(svm) on time series data to forecast customers’
+                    daily purchasing temptations.</li>
+                <li>Optimized the code and reduce the data retrieval time by 40%.</li>
+                <li className="font-weight-bold">tools: c++</li>
             </article>
         </Container>
 

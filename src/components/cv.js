@@ -5,7 +5,7 @@ import PDFViewer from 'pdf-viewer-reactjs'
 import Image from "react-bootstrap/Image";
 import Button from 'react-bootstrap/Button'
 
-import cv from '../CV.pdf'
+import cv from '../Resume.pdf'
 
 class CV extends Component {
 

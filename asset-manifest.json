@@ -1,28 +1,31 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.3be61b6c.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.3be61b6c.chunk.js.map",
+    "main.js": "/react-gh-pages/static/js/main.21148459.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.21148459.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.08eec64a.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.08eec64a.js.map",
-    "static/css/2.02d7b705.chunk.css": "/react-gh-pages/static/css/2.02d7b705.chunk.css",
-    "static/js/2.c8665ec5.chunk.js": "/react-gh-pages/static/js/2.c8665ec5.chunk.js",
-    "static/js/2.c8665ec5.chunk.js.map": "/react-gh-pages/static/js/2.c8665ec5.chunk.js.map",
+    "static/css/2.de424728.chunk.css": "/react-gh-pages/static/css/2.de424728.chunk.css",
+    "static/js/2.ba96f267.chunk.js": "/react-gh-pages/static/js/2.ba96f267.chunk.js",
+    "static/js/2.ba96f267.chunk.js.map": "/react-gh-pages/static/js/2.ba96f267.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.628d3c82d09abf53d448b91ddd305e74.js": "/react-gh-pages/precache-manifest.628d3c82d09abf53d448b91ddd305e74.js",
+    "precache-manifest.e89fc445f01c29e3d8fedb1c167fdfef.js": "/react-gh-pages/precache-manifest.e89fc445f01c29e3d8fedb1c167fdfef.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.02d7b705.chunk.css.map": "/react-gh-pages/static/css/2.02d7b705.chunk.css.map",
+    "static/css/2.de424728.chunk.css.map": "/react-gh-pages/static/css/2.de424728.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c8665ec5.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.c8665ec5.chunk.js.LICENSE.txt",
-    "static/media/CV.pdf": "/react-gh-pages/static/media/CV.881b9552.pdf",
-    "static/media/material-icons.css": "/react-gh-pages/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/js/2.ba96f267.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ba96f267.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/react-gh-pages/static/media/CV.7557c5f2.pdf",
+    "static/media/Resume.pdf": "/react-gh-pages/static/media/Resume.ca31d8ab.pdf",
+    "static/media/arhmm.pdf": "/react-gh-pages/static/media/arhmm.980b690b.pdf",
+    "static/media/gan_bm.pdf": "/react-gh-pages/static/media/gan_bm.2271a06b.pdf",
+    "static/media/nn_pde.pdf": "/react-gh-pages/static/media/nn_pde.54d5c88f.pdf",
     "static/media/personal.jpeg": "/react-gh-pages/static/media/personal.cc55f80b.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.08eec64a.js",
-    "static/css/2.02d7b705.chunk.css",
-    "static/js/2.c8665ec5.chunk.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.ba96f267.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3be61b6c.chunk.js"
+    "static/js/main.21148459.chunk.js"
   ]
 }

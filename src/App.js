@@ -9,7 +9,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 import AboutCard from './components/about'
 import Research from './components/research'
 import Work from './components/work'
-import CV from './components/cv'
+import cv from "./components/docs/CV.pdf";
 
 import {
     BrowserRouter as Router,
@@ -19,17 +19,18 @@ import {
     HashRouter,
 } from "react-router-dom";
 
-import cv from "./CV.pdf";
+
 
 function App() {
     return (
         <Container>
-            <Router basename="/react-gh-pages">
+            <Router basename="/react-gh-pages" expand="lg">
 
                 <Row className="justify-content-md-center">
 
-                    <Col md={{span: 2.5}}>
-                        <Navbar bg="light" expand="lg" className='mt-5'>
+                    <Col md={{span: 2.5}} className='mt-lg-4'>
+
+                        <Navbar bg="light"  className='mt-lg-5'>
 
                         <Nav defaultActiveKey="/" className="flex-sm-column">
                             <LinkContainer to="/about">
@@ -46,13 +47,15 @@ function App() {
                             <Nav.Link href="https://github.com/liyo6397" target="_blank">GitHub</Nav.Link>
                         </Nav>
                         </Navbar>
+
                     </Col>
 
 
-                    <Col md={{span: 7}}>
+                    <Col md={{span: 8}}>
+
                         <Switch>
-                            <Route exact path="/" className="flex-sm-column">
-                                <AboutCard className='mt-5'/>
+                            <Route exact path="/" className="flex-sm-column" md={{span: 7}}>
+                                <AboutCard className='mt-5' />
                             </Route>
 
                             <Route exact path="/about">
@@ -65,6 +68,7 @@ function App() {
                                 <Work />
                             </Route>
                         </Switch>
+
                     </Col>
 
                 </Row>

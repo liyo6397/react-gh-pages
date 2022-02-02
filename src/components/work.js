@@ -16,32 +16,39 @@ function Work(){
             <hr/>
 
             <article>
-                <h2 className="h5 font-weight-bold">Full Stack Developer</h2>
-                <h3 className="h7 font-weight-light">Main StreetExchange, June.2016-June.2018</h3>
+                <h4 className="h6 font-weight-bold">Software Engineer</h4>
+                <h4 className="h6 font-weight-light">National Oceanic and Atmospheric Administration, April.2021-present</h4>
 
-                <li> Maintained 5 onsite databases and increased its admin effectiveness by 20%. </li>
-                <li> Integrated database functionality into websites for automating document and capitalization</li>
-                <li className=" font-weight-bold"> tools: SQL, php, javascript</li>
+                <li> Developed the Backend modules for predicting magnetic value in C/C++.  </li>
+                <li> Deploying the machine learning model to forecast disturbance-storm-time index in production level </li>
+                <li> Developed the Java based Web API for sending the magnetic field value to user without needing the software installed.</li>
+                <li> Developed the Java web application on Google App Engine and Google Compute Engine. </li>
+            </article>
+            <br/>
+            <article>
+                <h4 className="h6 font-weight-bold">Full Stack Developer</h4>
+                <h4 className="h6 font-weight-light">Main StreetExchange, June.2016-June.2018</h4>
+
+                <li> Implemented scripting tools and virtual server environments to troubleshoot real-time system issues. </li>
+                <li>  Developed major functionality on the website's portal including third-party app integration and database management. </li>
+
 
             </article>
             <br/>
             <article>
-                <h2 className="h5 font-weight-bold">Machine Learning Engineer</h2>
-                <h3 className="h7 font-weight-light">TopicTechnology, Jan. 2016-May. 2016</h3>
-                <li>  Built topic model to identify the market and competitive landscape with up to 95% fidelity. </li>
-                <li>  Filtered and cleaned unstructured company and market information, improved the classification
-                    accuracy 30%.  </li>
-                <li className="font-weight-bold"> tools: python, nltk</li>
+                <h4 className="h6 font-weight-bold">Machine Learning Engineer</h4>
+                <h4 className="h6 font-weight-light">TopicTechnology, Jan. 2016-May. 2016</h4>
+                <li> Built software tools for extracting unstructured sentimental information from social media for training machine learning model.</li>
+
             </article>
             <br/>
             <article>
-                <h2 className="h5 font-weight-bold">Machine Learning Engineer Intern</h2>
-                <h3 className="h7 font-weight-light">Millennium Engineering & Integration, Summer 2014</h3>
-                <li> Apply support vector machine(svm) on time series data to forecast customers’
-                    daily purchasing temptations.</li>
-                <li>Optimized the code and reduce the data retrieval time by 40%.</li>
-                <li className="font-weight-bold">tools: c++</li>
+                <h4 className="h6 font-weight-bold">Software Engineer Intern</h4>
+                <h4 className="h6 font-weight-light">Millennium Engineering & Integration, Summer 2014</h4>
+                <li> Built the support vector machine(svm) application on time series prediction with C++.</li>
             </article>
+            <br/>
+            <br/>
         </Container>
 
     );
